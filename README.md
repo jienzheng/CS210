@@ -32,6 +32,15 @@ Learning Data Structures and applying different data structures to complete thes
 * I used CLion to make and run all these codes.
 * Running code on VSCode will require you to add additional code onto the JSON files.
 
+### Executing program terminal/cmd
+
+* Make sure that you are in the directory of where the program resides
+  ```
+  cd 'path/to/your/project'
+  g++ -o <name-you-want-to-give> driver.cpp
+  ./myprogram
+  ```
+
 ## Author
 
 Jien Zheng
