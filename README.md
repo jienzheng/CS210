@@ -10,7 +10,7 @@ Learning Data Structures and applying different data structures to complete thes
 
 ### Dependencies
 
-* MacOS
+* MacOS or Window
 * C++ (11)
 * CLion or VSCode
 * gcc compiler or g++ compiler
