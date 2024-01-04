@@ -11,7 +11,7 @@ Learning Data Structures and applying different data structures to complete thes
 ### Dependencies
 
 * MacOS
-* C++ (C++ 11)
+* C++ (11)
 * VSCode
 * CLion
 * gcc compiler
