@@ -12,10 +12,8 @@ Learning Data Structures and applying different data structures to complete thes
 
 * MacOS
 * C++ (11)
-* VSCode
-* CLion
-* gcc compiler
-* g++ compiler
+* CLion or VSCode
+* gcc compiler or g++ compiler
 
 
 ### Installing
