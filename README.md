@@ -36,9 +36,9 @@ Learning Data Structures and applying different data structures to complete thes
 
 * Make sure that you are in the directory of where the program resides
   ```
-  cd 'path/to/your/project'
-  g++ -o <name-you-want-to-give> driver.cpp
-  ./myprogram
+  $ cd 'path/to/your/project'
+  $ g++ -o <name-you-want-to-give> driver.cpp
+  $ ./myprogram
   ```
 
 ## Author
