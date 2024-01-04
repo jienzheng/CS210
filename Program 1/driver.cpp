@@ -10,6 +10,7 @@
  * provided for all projects.
  */
 #include "sortcar.h"
+#include "sortcar.cpp"
 #include <string>
 #include <iostream>
 // Bad practice but ok for small project
