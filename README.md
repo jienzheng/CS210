@@ -23,8 +23,8 @@ Learning Data Structures and applying different data structures to complete thes
 * Install required dependencies
 * Make sure dependencies are installed properly by running:
   ```
-  gcc --version
-  g++ --version
+  $ gcc --version
+  $ g++ --version
   ```
 
 ### Executing program using IDEs
